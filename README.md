@@ -133,7 +133,7 @@ A **React component** that provides a beautiful, dark-themed UI for running comp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AmanKumarSinhaGitHub/Claude-Skill-for-Competitive-Analysis.git
+   git clone https://github.com/Ankushpanday1/Claude-Skill-for-Competitive-Analysis.git
    ```
 
 2. Import the component into your React project:
@@ -249,9 +249,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Author
 
-**Aman Kumar Sinha**
+**Ankush Pandey**
 
-- GitHub: [@AmanKumarSinhaGitHub](https://github.com/AmanKumarSinhaGitHub)
+- GitHub: [@Ankushpanday1](https://github.com/Ankushpanday1)
 
 ---
 
